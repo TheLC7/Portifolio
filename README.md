@@ -5,8 +5,6 @@ Bem-vindo ao meu portfólio! Aqui você encontra meus principais projetos, habil
 ## 🚀 Tecnologias Utilizadas
 - HTML5, CSS3, JavaScript
 - Figma (para design e prototipação)
-- Frameworks modernos (React, Flet)
-- Banco de Dados (SQL, NoSQL)
 - Controle de Versão (Git & GitHub)
 
 ## 🎯 O Que Você Vai Encontrar Aqui
