@@ -1,0 +1,11 @@
+/* Celulares pequenos */
+@media (max-width: 480px){
+    .sobre-1{
+        width: 85% ;
+        font-size: 14px;
+    }
+    .sobre-2{
+        width: 85% ;
+        font-size: 14px;
+    }
+}

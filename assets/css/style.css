@@ -15,19 +15,34 @@
     flex-direction: column;
     position: relative;
     z-index: 2;
-    gap: 20px;
+    gap: 30px;
 }
 
 .titulo{
   height: 35px;
   color: white;
-  font-size: 35px;
+  font-size: 40px;
+  font-family: 'Fira Code', monospace;
+  font-weight: 500;
+}
+.sobre-1{
+  width: 60%;
+  color: white;
+  font-size: 18px;
+  font-family: 'Fira Code', monospace;
+  margin-top: 15px;
+}
+.sobre-2{
+  width: 60%;
+  color: white;
+  font-size: 18px;
   font-family: 'Fira Code', monospace;
 }
 
 .container-sociais{
   display: flex;
   gap: 15px;
+  margin-top: 15px;
 }
 .button-instagram svg,
 .button-whatsapp svg,
