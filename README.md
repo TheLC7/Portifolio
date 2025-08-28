@@ -1,6 +1,8 @@
-# 💻 Portfólio - Luan Capistrano (LC7)
+# 💻 Portfólio - Luan Capistrano (Capistrano Dev)
 
 Bem-vindo ao meu portfólio! Aqui você encontra meus principais projetos, habilidades e formas de contato. Meu foco é o desenvolvimento de sites de alta performance, utilizando as melhores práticas de mercado para criar experiências visuais impactantes e funcionais.
+
+🌐 Acesse meu portfólio online: [www.capistranodev.com.br](https://www.capistranodev.com.br)
 
 ## 🚀 Tecnologias Utilizadas
 - HTML5, CSS3, JavaScript
@@ -26,9 +28,8 @@ Bem-vindo ao meu portfólio! Aqui você encontra meus principais projetos, habil
 
 ## 📩 Contato
 - GitHub: [TheLC7](https://github.com/TheLC7)
-- Instagram: [@seu_instagram](https://www.instagram.com/seu_instagram)
-- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/seu_linkedin)
-
+- Site: [www.capistranodev.com.br](https://www.capistranodev.com.br)
+  
 ---
 
 Se gostou do meu trabalho, deixe uma estrela ⭐ no repositório!
